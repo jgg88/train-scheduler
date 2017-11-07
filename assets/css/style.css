@@ -1,0 +1,61 @@
+
+body {
+	background: #F1F7FF;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	position: sticky;
+	background: linear-gradient(to bottom right, #A5BFDC, #F1F7FF);
+	height:120px;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-size: 68px;
+	margin-left: 120px;
+	margin-top: 0;
+	padding-top: 50px;
+	font-family: 'Rozha One', serif;
+}
+
+#primary1 {
+	border-width: 1px;
+	border-color: #A5BFDC;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 20px;
+	width: 80%;
+	position: relative;
+	left: 90px;
+	margin: 20px;
+}
+
+#primary2 {
+	border-width: 1px;
+	border-color: #A5BFDC;
+	border-top-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 20px;
+	width: 80%;
+	position: relative;
+	left: 90px;
+	margin: 20px;
+}
+
+#heading1 {
+	background: linear-gradient(to bottom right, #A5BFDC, #F1F7FF);
+	border-top-left-radius: 18px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 19px;
+	border-bottom-left-radius: 0px;
+}
+
+#heading2 {
+	background: linear-gradient(to bottom right, #A5BFDC, #F1F7FF);
+	border-top-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 0px;
+}
